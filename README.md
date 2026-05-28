@@ -2,7 +2,7 @@
 
 [![Live Dashboard](https://img.shields.io/badge/Live-Tableau%20Dashboard-blue)](https://public.tableau.com/app/profile/tannu.kumari3904/viz/Ecommerce-Sales-Dashboard_17799746627200/Dashboard1)
 
-> **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn  
+> **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn  . Tableau
 > **Domain:** Retail Analytics | Business Intelligence  
 > **Author:** Tannu Kumari | IGDTUW Delhi | Batch 2026
 
