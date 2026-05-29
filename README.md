@@ -2,6 +2,7 @@
 
 [![Live Dashboard](https://img.shields.io/badge/Live-Tableau%20Dashboard-blue)](https://public.tableau.com/app/profile/tannu.kumari3904/viz/Ecommerce-Sales-Dashboard_17799746627200/Dashboard1)
 
+> **Notebook:** ecommerce_sales_analysis_superstore.ipynb
 > **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn  . Tableau
 > **Domain:** Retail Analytics | Business Intelligence  
 > **Author:** Tannu Kumari | IGDTUW Delhi | Batch 2026
@@ -82,7 +83,7 @@ cd ecommerce-sales-analysis
 pip install pandas numpy matplotlib seaborn
 
 # 3. Run analysis
-python ecommerce_sales_analysis.py
+jupyter notebook ecommerce_sales_analysis_superstore.ipynb
 ```
 
 All 5 charts will be saved automatically in the same folder.
